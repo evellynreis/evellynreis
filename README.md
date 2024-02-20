@@ -18,11 +18,6 @@ src="https://img.shields.io/github/followers/evellyn-jade-76b3451bb?logo=github&
  <a href="http://wa.me/5579988593329" target="blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Evellyn Jade WhatsApp"/></a>
 </p>
 
-<h3 align="left">Linguagens:</h3>
-<p align="left">
-<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JS"/>
-</p>
-
 <h3 align="left">Ferramentas:</h3>
 <p align="left">
  <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" alt="TRELLO"/>
@@ -35,7 +30,7 @@ src="https://img.shields.io/github/followers/evellyn-jade-76b3451bb?logo=github&
 
 <h3 align="left">Frontend:</h3>
 <p align="left">
- <img src="https://img.shields.io/badge/php-20232A?style=for-the-badge&logo=php&logoColor=AEB2D5" alt="PHP"/>
+ <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JS"/>
  <img src="https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
  <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" alt="React ROuter"/>
@@ -45,6 +40,7 @@ src="https://img.shields.io/github/followers/evellyn-jade-76b3451bb?logo=github&
  
 <h3 align="left">Backend:</h3>
 <p align="left">
+ <img src="https://img.shields.io/badge/php-20232A?style=for-the-badge&logo=php&logoColor=AEB2D5" alt="PHP"/>
  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
 </p>
