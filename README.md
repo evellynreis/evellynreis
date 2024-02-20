@@ -44,3 +44,8 @@ src="https://img.shields.io/github/followers/evellyn-jade-76b3451bb?logo=github&
  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
 </p>
+
+<h3 align="left">Teste:</h3>
+<p align="left">
+ <img src="https://img.shields.io/badge/selenium-%23000000.svg?style=for-the-badge&logo=selenium&logoColor=green" alt="Selenium"/>
+</p>
