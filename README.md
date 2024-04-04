@@ -5,13 +5,6 @@
 <p align="left">💬 Pode entrar em contato comigo via Linkedin que responderei o mais breve possível.</p>
 <p align="left">📝 Gosto de experimentar novos desafios e conhecer novas tecnologias.</p>
 
-
-<a href="https://www.linkedin.com/in/evellyn-jade-76b3451bb/" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/evellyn-jade-76b3451bb?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" />
-</a>
- <img alt="Profile visitors" width="15%" src="https://komarev.com/ghpvc/?username=evellyn-jade"/>
-  <img alt="Stars" width="10%" src="https://img.shields.io/github/stars/kaioruan?style=social"/>
-
 <h3 align="left">Contato:</h3>
 <p align="left">
  <a href="https://www.linkedin.com/in/evellyn-jade-76b3451bb/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Evellyn Jade Linkedin"/></a>
