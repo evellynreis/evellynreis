@@ -1,4 +1,5 @@
-<h1 align="left">Hello world 👋, Eu sou Evellyn Jade</h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=BB00B4&random=false&width=435&height=40&lines=Ol%C3%A1%2C+eu+sou+a+Evellyn+Jade!+%F0%9F%91%BE%F0%9F%93%9A%F0%9F%92%99)](https://git.io/typing-svg)
+
 <h3 align="left">Sobre mim</h3>
 <p align="left">🎓 Desenvolvedora web full stack.</p>
 <p align="left">💬 Pode entrar em contato comigo via Linkedin que responderei o mais breve possível.</p>
