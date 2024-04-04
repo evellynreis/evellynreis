@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=BB00B4&random=false&width=435&height=40&lines=Ol%C3%A1%2C+eu+sou+a+Evellyn+Jade!+%F0%9F%91%BE%F0%9F%93%9A%F0%9F%92%99)](https://git.io/typing-svg)
 
-<h3 align="left">Sobre mim</h3>
+<h3 align="left">Sobre mim:</h3>
 <p align="left">🎓 Desenvolvedora web full stack.</p>
 <p align="left">💬 Pode entrar em contato comigo via Linkedin que responderei o mais breve possível.</p>
 <p align="left">📝 Gosto de experimentar novos desafios e conhecer novas tecnologias.</p>
@@ -49,3 +49,9 @@ src="https://img.shields.io/github/followers/evellyn-jade-76b3451bb?logo=github&
 <p align="left">
  <img src="https://img.shields.io/badge/selenium-%23000000.svg?style=for-the-badge&logo=selenium&logoColor=green" alt="Selenium"/>
 </p>
+
+<h3>GitHub Stats:</h3>
+
+![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=evellynreis&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=FF00F6&text_color=FFF&border_radius=3&border_color=36123c&icon_color=FF00F6&theme=jolly)
+[![Most Used Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=evellynreis&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=FF00F6&hide=html,css&bg_color=000&text_color=8B8B8B&border_radius=3&border_color=561760&count_private=true)](https://github.com/evellynreis/github-readme-stats)
+<br>
