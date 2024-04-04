@@ -15,8 +15,7 @@ src="https://img.shields.io/github/followers/evellyn-jade-76b3451bb?logo=github&
 <h3 align="left">Contato:</h3>
 <p align="left">
  <a href="https://www.linkedin.com/in/evellyn-jade-76b3451bb/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Evellyn Jade Linkedin"/></a>
-<a href="mailto:jadevellyn@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Evellyn Jade Email"/></a>
- <a href="http://wa.me/5579988593329" target="blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Evellyn Jade WhatsApp"/></a>
+ <a href="mailto:jadevellyn@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Evellyn Jade Email"/></a>
 </p>
 
 <h3 align="left">Ferramentas:</h3>
